@@ -2,7 +2,7 @@ name: Multi-Cloud Docker Push
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 env:
   IMAGE_NAME: app
